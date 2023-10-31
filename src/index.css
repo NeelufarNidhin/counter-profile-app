@@ -11,3 +11,41 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header{
+  background-color: gray;
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 75px;
+}
+
+.pcard{
+  background-color:darkgreen;
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 150px;
+  width: 50%;
+  margin-left: 300px;
+}
+
+.buttonstyle1{
+  background-color: lightgreen;
+  color: black;
+  width: 200px;
+  height:75px;
+  margin-left: 300px;
+}
+
+.buttonstyle2{
+  background-color: lightgreen;
+  color: black;
+  width: 200px;
+  height:75px;
+  margin-left: 200px;
+}
